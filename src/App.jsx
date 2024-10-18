@@ -10,7 +10,7 @@ import Resume from './Components/Resume';
 import { Link, Route, Routes } from 'react-router-dom'
 
 function App() {
-  const [open, setOpen] = useState(false)
+  const [open, setOpen] = useState(true)
 
   return (
     <>
